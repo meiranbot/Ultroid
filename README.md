@@ -1,11 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](tiny.ultroid.tech/17lqp9u8lpdyyt8u)
-
-<p align="center">
-  <img src="./resources/extras/logo_readme.jpg" alt="TeamUltroid Logo">
-</p>
-<h1 align="center">
-  <b>Ultroid - UserBot</b>
-</h1>
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/meiranbot/UltroidV2)
 
 <b>A stable pluggable Telegram userbot + Voice & Video Call music bot, based on Telethon.</b>
 
